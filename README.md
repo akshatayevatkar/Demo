@@ -1,5 +1,5 @@
 # Demo
 Akshata
-SOnika
+Sonika
 Deepali
 hiii
